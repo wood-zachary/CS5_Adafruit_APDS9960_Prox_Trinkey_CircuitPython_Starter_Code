@@ -7,4 +7,4 @@ CircuitPython files to read proximity data from the APDS9960 sensor over STEMMA�
 
 ## Installation/Usage
 1. Run `transfer.py` to copy all files onto the CIRCUITPY drive and open the serial miniterm. 
-3. In the miniterm, you’ll see proximity and gesture readings move objects over the sensor.
+3. In the miniterm, you’ll see proximity and gesture readings as you move objects over the sensor.
