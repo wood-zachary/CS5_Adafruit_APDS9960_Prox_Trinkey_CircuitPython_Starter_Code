@@ -8,7 +8,7 @@ from support.mytyping import NoReturn
 
 # Constants (Keep same or tests will break)
 THRESHOLD: int = 75
-UNIT_TIME: float = 0.24
+UNIT_TIME: float = 0.48
 
 RED   : tuple[int, int, int] = (255, 0,   0)
 YELLOW: tuple[int, int, int] = (220, 160, 0)
